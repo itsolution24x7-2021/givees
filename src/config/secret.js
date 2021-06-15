@@ -1,0 +1,1 @@
+export const mapsAPI = 'AIzaSyBN4xzZ_BqLc7v4USWM_DdIU5BsrpYJNyw';
